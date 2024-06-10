@@ -69,6 +69,6 @@
   "url": "https://github.com/Madventurer/DH2e-Mad",
   "socket": true,
   "manifest": "https://github.com/Madventurer/DH2e-Mad/releases/download/4.3.50/system.json",
-  "download": "https://github.com/Madventurer/DH2e-Mad/releases/download/4.3.50/DH2e-Mad-homebrew.rar",
+  "download": "https://github.com/Madventurer/DH2e-Mad/releases/download/4.3.50/DH2e-Mad-homebrew.zip",
   "license": "LICENSE.txt"
 }
